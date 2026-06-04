@@ -1,2 +1,1 @@
-# school
-Preparing for school
+# Preparation for school
